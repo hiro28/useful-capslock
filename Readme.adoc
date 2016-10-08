@@ -17,5 +17,5 @@ So we will use: https://github.com/tekezo/Karabiner-Elements[Karabiner-Elements]
 
 Modify `hammerspoon/init.lua` with your own. 
 -----------------------------
-Github:: @hiro28
-Email:: hironomeeru@gmail.com
+Github: @hiro28
+Email: hironomeeru@gmail.com
