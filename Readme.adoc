@@ -1,0 +1,21 @@
+= Useful Capslock
+
+Another trick to let your useless capslock be useful
+
+== Background:
+
+Karabiner, Seil felt down.
+
+So we will use:https://github.com/tekezo/Karabiner-Elements[Karabiner-Elements] and link:http://www.hammerspoon.org[Hammerspoon] as Mercy (Heroes never die).
+
+== Installation:
+
+* Install Hammerspoon
+* Install Karabiner-Elements
+* Put `hammerspoon/init.lua` in `~/.hammerspoon/init.lua`
+* Put `karabiner.d/configuration/karabiner.json` in `~/.karabiner.d/configuration/karabiner.json`
+
+Modify `hammerspoon/init.lua` with your own. 
+-----------------------------
+Github:: @hiro28
+Email:: hironomeeru@gmail.com
