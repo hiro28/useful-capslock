@@ -6,7 +6,7 @@ Another trick to let your useless capslock be useful
 
 Karabiner, Seil felt down.
 
-So we will use:https://github.com/tekezo/Karabiner-Elements[Karabiner-Elements] and link:http://www.hammerspoon.org[Hammerspoon] as Mercy (Heroes never die).
+So we will use: https://github.com/tekezo/Karabiner-Elements[Karabiner-Elements] and link:http://www.hammerspoon.org[Hammerspoon] as Mercy (Heroes never die).
 
 == Installation:
 
