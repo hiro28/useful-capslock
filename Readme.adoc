@@ -13,7 +13,7 @@ So we will use: https://github.com/tekezo/Karabiner-Elements[Karabiner-Elements]
 * Install Hammerspoon
 * Install Karabiner-Elements
 * Put `hammerspoon/init.lua` in `~/.hammerspoon/init.lua`
-* Put `karabiner.d/configuration/karabiner.json` in `~/.karabiner.d/configuration/karabiner.json`
+* Put `karabiner.d/configuration/karabiner.json` in `~/.config/karabiner/karabiner.json`
 
 Modify `hammerspoon/init.lua` with your own. 
 -----------------------------
